@@ -190,7 +190,17 @@ a:hover{
 #contact{
     margin: 8%;
 }
-
+#facebook{
+    margin:2%;
+    width: 15%;
+    
+}
+#instagram{
+    
+    margin: 0% ;
+    border-radius: 25%;
+    width: 15%;
+}
 
 footer{
     background-color: rgb(58, 58, 58);
@@ -438,6 +448,14 @@ footer{
     .info{
         margin-left: 10%;
         font-size: 1.5em;
+    }
+    #facebook{
+        margin:2%;
+        width: 5%;
+    }
+    #instagram{
+        border-radius: 25%;
+        width: 5%;
     }
     footer{
         background-color: rgb(58, 58, 58);
